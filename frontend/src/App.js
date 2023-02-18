@@ -17,8 +17,6 @@ function App() {
     .then(error => console.log(error))
   }, [])
 
-
-
   return (
     <div className="App">
       <h1>Flask and ReactJS course</h1>
